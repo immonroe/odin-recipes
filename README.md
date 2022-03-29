@@ -1,6 +1,8 @@
-# odin-recipes is a project that will combine all the
-things i've learned so far for The Odin Project. This
-project will be visited in the future to add additional features.
+# odin-recipes
+
+This is a project that will combine all the
+things i've learned so far from The Odin Project. This
+project will be visited in the future to add additional features. For now, this will be the groundwork and basic HTML that will be implemented.
 
 Throughout the initial entry of the project, I will be using the following:
 
