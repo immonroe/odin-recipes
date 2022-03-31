@@ -1,3 +1,21 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.title {
+  font-size: 3em;
+}
+
+.subtitle {
+  font-size: 2em;
+}
+
+.picture {
+  border: 1px solid black;
+}
+
 img {
     height: auto;
     width: 80%;
