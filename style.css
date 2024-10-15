@@ -22,7 +22,7 @@ img {
     margin: 1em;
 }
 
-.picture, .title, .subtitle {
+.picture, .title, .subtitle, figcaption {
   display: block;
   margin: auto;
   text-align: center;
