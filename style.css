@@ -19,4 +19,24 @@
 img {
     height: auto;
     width: 80%;
-  }
+    margin: 1em;
+}
+
+.picture, .title, .subtitle {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+ol {
+  padding: 1.25em;
+}
+
+.menu {
+  text-align: center;
+  list-style-type: none;
+}
+
+.title, .subtitle {
+  padding: 0.25em;
+}
